@@ -1,0 +1,8 @@
+torch>=1.0.0
+pydensecrf
+numpy
+matplotlib
+scipy
+h5py
+PILLOW
+tqdm
